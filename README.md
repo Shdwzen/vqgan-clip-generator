@@ -1,5 +1,7 @@
 # VQGAN-CLIP-GENERATOR Overview
 
+P.S: I have only forked this to make small adjustments, all credit goes to [Original Owner.](https://github.com/rkhamilton/vqgan-clip-generator)
+
 This is a package (with available [notebook](vqgan_clip_generator.ipynb)) for running VQGAN+CLIP locally, with a focus on ease of use, good documentation, and generating smooth style transfer videos. There are [three main user-facing functions](#functions): generate.image(), generate.video_frames(), and generate.style_transfer().
 
 This package started as a complete refactor of the code provided by [NerdyRodent](https://github.com/nerdyrodent/), which started out as a Katherine Crowson VQGAN+CLIP-derived Google colab notebook.
